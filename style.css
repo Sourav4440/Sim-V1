@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  background: url('https://i.ibb.co/pWTHcGc/laptop-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.entry-bg {
+  background: rgba(0, 0, 0, 0.7);
+  color: black;
+  padding: 80px;
+  max-width: 700px;
+  margin: 50px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+input, button, select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
